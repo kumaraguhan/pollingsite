@@ -1,2 +1,5 @@
-__pychace__/
+__pycache__/
+*.py[cod]
+
+polls/__pycache__/
 *.py[cod]
