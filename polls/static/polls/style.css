@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+li{
+    background-color: chartreuse;
+}
+
+body {
+    background: white url("images/Document.jpg") no-repeat;
+}
+
