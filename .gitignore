@@ -1,2 +1,5 @@
 __pychace__/
 *.py[cod]
+
+polls/__pychace__
+*.py[cod]
